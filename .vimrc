@@ -20,5 +20,3 @@ let g:prettier#config#print_width = 80
 set spell spelllang=en_us
 
 // Have a nice day!!
-// you're not the boss of me!
-//oh wait you are`
