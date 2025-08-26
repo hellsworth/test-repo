@@ -18,3 +18,5 @@ if exists('+termguicolors')
 endif
 let g:prettier#config#print_width = 80
 set spell spelllang=en_us
+
+// Have a nice day!!
